@@ -12,3 +12,6 @@ const passwordInput = document.getElementById('password');
         passwordToggleIcon.classList.toggle('bi-eye', !isVisible);
         passwordToggleIcon.classList.toggle('bi-eye-slash', isVisible);
     });
+
+
+
