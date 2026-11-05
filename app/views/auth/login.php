@@ -50,7 +50,7 @@
                         <div class="input-wrap">
                             <i class="bi bi-lock" aria-hidden="true"></i>
                             <input id="password" name="password" type="password" placeholder="Ingresa tu contraseña" autocomplete="current-password" required>
-                            <button class="password-toggle" type="button" aria-label="Mostrar contraseña"><i class="bi bi-eye" aria-hidden="true"></i></button>
+                            <button class="password-toggle" type="button" aria-label="Mostrar contraseña" aria-pressed="false" aria-controls="password"><i class="bi bi-eye" aria-hidden="true"></i></button>
                         </div>
 
                         
@@ -61,6 +61,7 @@
             </div>
         </section>
     </main>
+<script src="../../../public/js/login.js"></script>
 </body>
 
 </html>
