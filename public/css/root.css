@@ -1,0 +1,33 @@
+:root {
+  /* Marca AR Holding */
+  --color-brand-purple: #56247C;
+  --color-brand-purple-dark: #351050;
+  --color-brand-purple-soft: #F1EAF5;
+  --color-brand-green: #12895B;
+  --color-brand-green-light: #22A56B;
+  --color-brand-green-soft: #EAF5EF;
+
+  /* Superficies */
+  --color-background: #F8F7FB;
+  --color-surface: #FFFFFF;
+  --color-surface-muted: #F3F0F5;
+  --color-border: #DED7E4;
+
+  /* Texto e iconos */
+  --color-text: #2E173C;
+  --color-text-secondary: #7C7282;
+  --color-text-muted: #A49BA9;
+  --color-icon: #918698;
+
+  /* Estados */
+  --color-success: #12895B;
+  --color-warning: #B7791F;
+  --color-error: #C2414B;
+  --color-info: #3975A8;
+
+  /* Enlaces y acciones */
+  --color-link: var(--color-brand-green);
+  --color-button-primary: var(--color-brand-green);
+  --color-button-primary-hover: #0B7049;
+  --color-focus-ring: #8B65A4;
+}
